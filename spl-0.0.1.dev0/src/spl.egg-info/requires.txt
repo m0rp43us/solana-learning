@@ -1,0 +1,7 @@
+bunch
+cachecontrol[filecache]
+cfscrape
+lockfile
+pyyaml
+requests
+simplejson
